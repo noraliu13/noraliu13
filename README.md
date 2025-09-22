@@ -28,7 +28,7 @@
 ## 🔎 What am I up to right now?
 
 ### I’m currently working on...
-- 🤫 **Research paper** on the development of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
+- 🤫 **Research paper** on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
 - 📷 Recreating **Ring cameras** for custom object detection
 
 ### I’m currently learning...
