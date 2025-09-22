@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
 
+<!--
+
 ## 🛠️ Languages & Tools  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,6 +23,7 @@
 ![LTspice](https://img.shields.io/badge/LTspice-DC322F?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
+-->
 
 
 ## 🔎 What am I up to right now?
