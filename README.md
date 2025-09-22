@@ -1,7 +1,6 @@
 # Hi, I'm Nora 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
----
 
 ## 🛠️ Languages & Tools  
 
@@ -23,7 +22,6 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
 
----
 
 ## 🔎 What am I up to right now?
 
@@ -36,7 +34,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
 
 <!--
 
