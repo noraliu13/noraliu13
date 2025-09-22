@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Languages & Tools  
+## 🛠️ Languages   
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -26,6 +26,8 @@
 ![Verilog](https://img.shields.io/badge/Verilog-35495E?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)  
 
+<!--
+
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -35,8 +37,6 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
 
-
-<!--
 
 ## 📊 GitHub Stats  
 
