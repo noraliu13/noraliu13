@@ -2,7 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
 
-<!--
+## 🔎 What am I up to right now?
+
+### I’m currently working on...
+- 🤫 **Research paper** on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
+- 📷 Recreating **Ring cameras** for custom object detection
+
+### I’m currently learning...
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
 
 ## 🛠️ Languages & Tools  
 
@@ -23,19 +34,6 @@
 ![LTspice](https://img.shields.io/badge/LTspice-DC322F?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-008080?style=for-the-badge)
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
--->
-
-
-## 🔎 What am I up to right now?
-
-### I’m currently working on...
-- 🤫 **Research paper** on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
-- 📷 Recreating **Ring cameras** for custom object detection
-
-### I’m currently learning...
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 <!--
