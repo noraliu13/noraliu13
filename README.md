@@ -27,11 +27,11 @@
 
 ## 🔎 What am I up to right now?
 
-### 🔭 I’m currently working on ...
+### I’m currently working on...
 - 🤫 **Research paper** on the development of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
 - 📷 Recreating **Ring cameras** for custom object detection
 
-### 🌱 I’m currently learning ...
+### I’m currently learning...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
