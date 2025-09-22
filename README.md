@@ -1,6 +1,6 @@
 # Hi, I'm Nora 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c20ceb&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
 
 ## 🔎 What am I up to right now?
 
