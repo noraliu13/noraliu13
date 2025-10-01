@@ -7,6 +7,7 @@
 ### I’m currently working on...
 - 🤫 **Research paper** on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
 - 📷 Recreating **Ring cameras** for custom object detection
+- 📚 Overall improvement on my Data Structures and Algorithms skills :)
 
 ### I’m currently learning...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
