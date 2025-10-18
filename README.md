@@ -48,8 +48,6 @@
 
 ---
 
--->
-
 
 ## 🌐 Connect with Me  
 
@@ -57,18 +55,5 @@
 [![Art Portfolio](https://img.shields.io/badge/Art%20Portfolio-FF69B4?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://noraliu13.github.io)  
 
 ![Visitors](https://komarev.com/ghpvc/?username=noraliu13&color=blue)  
-
-<!--
 **noraliu13/noraliu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
