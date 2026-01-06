@@ -5,8 +5,8 @@
 ## 🔎 What am I up to right now?
 
 ### I’m currently working on...
-- 🤫 **Research paper** on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
-- 📷 Recreating **Ring cameras** for custom object detection
+- 🤫 Research paper on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
+- 📷 Recreating Ring cameras for custom object detection
 - ⚙️ Building and testing embedded hardware systems
 - 📚 Overall improvement on my Data Structures and Algorithms skills :)
 
