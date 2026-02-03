@@ -2,20 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c20ceb&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
 
-## 🔎 What am I up to right now?
+## What am I up to right now?
 
 ### I’m currently working on...
-- 🤫 Research paper on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
-- 📷 Recreating Ring cameras for custom object detection
-- ⚙️ Building and testing embedded hardware systems
-- 📚 Overall improvement on my Data Structures and Algorithms skills :)
+- 🤫 research paper on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
+- ⚙️ building and testing embedded hardware systems
+- 🌐 some fire coursework in computer networks and databases
+- 📚 overall improvement on my data structures and algorithms skills :)
 
-### I’m currently learning...
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-## 🛠️ Languages   
+## Languages   
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -39,7 +34,7 @@
 ![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-0071C5?style=for-the-badge)
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Nora's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraliu13&show_icons=true&theme=tokyonight)  
 
@@ -50,7 +45,7 @@
 ---
 
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noralliu)  
 [![Art Portfolio](https://img.shields.io/badge/Art%20Portfolio-FF69B4?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://noraliu13.github.io)  
