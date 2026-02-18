@@ -1,11 +1,7 @@
 # Hi, I'm Nora 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c20ceb&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
-
-## What am I up to right now?
-
 ### I’m currently working on...
-- 🤫 research paper on the development and impact of [Snefru](https://learningc.org/cover.html) and [Khufu](https://learningcpp.org/cover.html) interactive exercises  
 - ⚙️ building and testing embedded hardware systems
 - 🌐 some fire coursework in computer networks and databases
 - 📚 overall improvement on my data structures and algorithms skills :)
