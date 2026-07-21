@@ -1,11 +1,10 @@
 # Hi, I'm Nora 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c20ceb&width=600&lines=3rd-Year+Computer+Engineering+Student+%40+UofT+(2T7))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28a745&width=600&lines=Software+Engineering+Intern+%40+DraftKings;Computer+Engineering+Student+%40+UofT)](https://git.io/typing-svg)
 
 ## I’m currently working on...
-- ⚙️ building and testing embedded hardware systems
-- 🌐 some fire coursework in computer networks and databases
-- 📚 overall improvement on my data structures and algorithms skills :)
+- building and testing embedded hardware systems
+- overall improvement on my data structures and algorithms skills :)
 
 ## Languages   
 
