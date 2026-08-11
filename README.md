@@ -1,6 +1,6 @@
 # Hi, I'm Nora 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28a745&width=600&lines=Software+Engineering+Intern+%40+DraftKings;Computer+Engineering+Student+%40+UofT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28a745&width=600&lines=Software+Engineering+Intern+%40+Mozilla;Computer+Engineering+Student+%40+UofT)](https://git.io/typing-svg)
 
 ## I’m currently working on...
 - building and testing embedded hardware systems
